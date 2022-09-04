@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshopshop_docs=self.webpackChunkshopshop_docs||[]).push([[9675],{3030:o=>{o.exports=JSON.parse('{"permalink":"/shopshop-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshopshop_docs=self.webpackChunkshopshop_docs||[]).push([[9605],{2506:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/shopshop-docs/blog/tags/hello","allTagsPath":"/shopshop-docs/blog/tags","count":2}')}}]);
