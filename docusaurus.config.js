@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SHOPSHOP DOCS',
-  tagline: 'Documentation for shopshop brand managers',
+  tagline: 'Documentation for shopshop staff',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/shopshop-docs/',
   onBrokenLinks: 'throw',
